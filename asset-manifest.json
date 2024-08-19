@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/arth-ver/static/css/main.2ee844e8.css",
+    "main.js": "/arth-ver/static/js/main.2b33d72c.js",
+    "static/js/787.93d49521.chunk.js": "/arth-ver/static/js/787.93d49521.chunk.js",
+    "static/media/image.jpeg": "/arth-ver/static/media/image.c8c7c4e49bc5c3699eb3.jpeg",
+    "static/media/whatsapp.svg": "/arth-ver/static/media/whatsapp.ce89518798b203cf74eb980715d47893.svg",
+    "static/media/instagram.svg": "/arth-ver/static/media/instagram.b18f035bd91149bdbf1038821a644f74.svg",
+    "index.html": "/arth-ver/index.html",
+    "main.2ee844e8.css.map": "/arth-ver/static/css/main.2ee844e8.css.map",
+    "main.2b33d72c.js.map": "/arth-ver/static/js/main.2b33d72c.js.map",
+    "787.93d49521.chunk.js.map": "/arth-ver/static/js/787.93d49521.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ee844e8.css",
+    "static/js/main.2b33d72c.js"
+  ]
+}
