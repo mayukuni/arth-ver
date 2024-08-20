@@ -1,16 +1,12 @@
 import './App.css';
 import Home from './pages/Home';
-import Ux from './pages/Ux';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/arth-ver">
       <Routes>
-        <Route path="/arth-ver" element={<Home />} />
-        <Route path="/ux" element={< Ux />}/>
-        <Route path="/projects"/>
-        <Route path="/about-me"/>
+        <Route path="/" element={<Home />} />
       </Routes>
     </Router>
   );
