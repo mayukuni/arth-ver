@@ -1,7 +1,7 @@
 import React from 'react';
-import photo from '../image.jpeg';
-import instagramLogo from "../instagram.svg"
-import whatsappLogo from '../whatsapp.svg'
+import photo from '../utils/image.jpeg';
+import instagramLogo from "../utils/instagram.svg"
+import whatsappLogo from '../utils/whatsapp.svg'
 import '../App.css';
 import Header from '../components/Header';
 import ProjectCard from '../components/ProjectCard';
