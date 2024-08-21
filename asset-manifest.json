@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/arth-ver/static/css/main.66791d7b.css",
-    "main.js": "/arth-ver/static/js/main.b578135a.js",
+    "main.css": "/arth-ver/static/css/main.bf6aebaf.css",
+    "main.js": "/arth-ver/static/js/main.eaebb77f.js",
     "static/js/787.10a32858.chunk.js": "/arth-ver/static/js/787.10a32858.chunk.js",
     "static/media/image.jpeg": "/arth-ver/static/media/image.c8c7c4e49bc5c3699eb3.jpeg",
     "static/media/whatsapp.svg": "/arth-ver/static/media/whatsapp.ce89518798b203cf74eb980715d47893.svg",
     "static/media/instagram.svg": "/arth-ver/static/media/instagram.b18f035bd91149bdbf1038821a644f74.svg",
     "index.html": "/arth-ver/index.html",
-    "main.66791d7b.css.map": "/arth-ver/static/css/main.66791d7b.css.map",
-    "main.b578135a.js.map": "/arth-ver/static/js/main.b578135a.js.map",
+    "main.bf6aebaf.css.map": "/arth-ver/static/css/main.bf6aebaf.css.map",
+    "main.eaebb77f.js.map": "/arth-ver/static/js/main.eaebb77f.js.map",
     "787.10a32858.chunk.js.map": "/arth-ver/static/js/787.10a32858.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66791d7b.css",
-    "static/js/main.b578135a.js"
+    "static/css/main.bf6aebaf.css",
+    "static/js/main.eaebb77f.js"
   ]
 }
