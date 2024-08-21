@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio-music-producer/static/css/main.bf6aebaf.css",
-    "main.js": "/portfolio-music-producer/static/js/main.ed0f3aac.js",
+    "main.js": "/portfolio-music-producer/static/js/main.6c618372.js",
     "static/js/787.10a32858.chunk.js": "/portfolio-music-producer/static/js/787.10a32858.chunk.js",
     "static/media/image.jpeg": "/portfolio-music-producer/static/media/image.c8c7c4e49bc5c3699eb3.jpeg",
     "static/media/whatsapp.svg": "/portfolio-music-producer/static/media/whatsapp.ce89518798b203cf74eb980715d47893.svg",
     "static/media/instagram.svg": "/portfolio-music-producer/static/media/instagram.b18f035bd91149bdbf1038821a644f74.svg",
     "index.html": "/portfolio-music-producer/index.html",
     "main.bf6aebaf.css.map": "/portfolio-music-producer/static/css/main.bf6aebaf.css.map",
-    "main.ed0f3aac.js.map": "/portfolio-music-producer/static/js/main.ed0f3aac.js.map",
+    "main.6c618372.js.map": "/portfolio-music-producer/static/js/main.6c618372.js.map",
     "787.10a32858.chunk.js.map": "/portfolio-music-producer/static/js/787.10a32858.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf6aebaf.css",
-    "static/js/main.ed0f3aac.js"
+    "static/js/main.6c618372.js"
   ]
 }
